@@ -1,3 +1,3 @@
 # Class-Conditional-Diffusion
 
-![Alt Text](assets/your-gif-name.gif)
+![Alt Text](assets/mnist_gen_out.gif)
