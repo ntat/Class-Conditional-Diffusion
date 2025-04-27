@@ -54,7 +54,7 @@ All results are from EMA checkpoints. For caclulating EMA weights, I am using th
 
 # Results
 ## CIFAR10
-Each row corresponds to one of the classes in CIFAR10: `airplace`, `bird`, `car`, `cat`, `deer`, `dog`, `frog`, `horse`, `ship`, \& `truck` 
+Each row corresponds to one of the classes in CIFAR10: `airplane`, `bird`, `car`, `cat`, `deer`, `dog`, `frog`, `horse`, `ship`, \& `truck` 
 
 <div align="center">
   <img src="assets/image_grid_cif10.png" alt="Alt Text">
