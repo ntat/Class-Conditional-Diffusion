@@ -3,7 +3,7 @@
 ## Introduction
 
 In this repository, we explore different concepts from the current state of the art with respect to Diffusion models for controlled image generation. We train from scratch a custom made Unet to predict noise at a given timestep, and apply it to CelebA-HQ, CIFAR10 \& MNIST datasets to generate samples from their corresponding distributions.    
-🚩**__Disclaimer:__** __All__ faces in this repository are **__generated__** (ie, fictional / for entertainment purposes).
+🚩 **__Disclaimer:__** __All__ faces in this repository are **__generated__** (ie, fictional / for entertainment purposes).
 
 <div align="center">
   <img src="assets/mnist_gen_out.gif" alt="Alt Text">
