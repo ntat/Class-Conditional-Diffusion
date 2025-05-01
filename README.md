@@ -62,4 +62,34 @@ Each row corresponds to one of the classes in CIFAR10: `airplane`, `bird`, `car`
 
 ## CelebA-HQ
 
+- Conditioning Vector: [Wearing_Lipstick, Young, Attractive, No_Beard]
+
+<div align="center">
+  <img src="assets/cond_out_1.png" alt="Alt Text">
+</div> 
+
+- Conditioning Vector: [Young, Attractive, Male, Smiling]
+
+<div align="center">
+  <img src="assets/cond_out_2.png" alt="Alt Text">
+</div> 
+
+- Conditioning Vector: [Mouth_Slightly_Open, Wearing_Lipstick, Young, Smiling, Attractive, No_Beard]
+
+<div align="center">
+  <img src="assets/cond_out_3.png" alt="Alt Text">
+</div> 
+
+- Conditioning Vector: [Bald, No_Beard, Male] - (very difficult, Bald distribution <2.5%)
+
+<div align="center">
+  <img src="assets/cond_out_4.png" alt="Alt Text">
+</div> 
+
+- Conditioning Vector: [Eyeglasses, Attractive, Young] - (very difficult, Eyeglasses distribution <5%)
+
+<div align="center">
+  <img src="assets/cond_out_5.png" alt="Alt Text">
+</div> 
+
 # Discussion
